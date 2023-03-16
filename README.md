@@ -1,2 +1,5 @@
 # Hello-World-GitHub
-Hello world
+
+Hello I'm Wang Jiaza!
+
+My student number is 1155114536
